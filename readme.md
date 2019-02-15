@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # In-Class Exercise 2 :
 
 In this exercise, we are going to re-create a brochure, designed by László Moholy-Nagy, to advertise the first book published by the Bauhaus, "Staatliches Bauhaus in Weimar 1919-1923".
